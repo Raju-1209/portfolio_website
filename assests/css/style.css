@@ -1009,3 +1009,46 @@ img {
   }
 }
 
+/* Experience Section */
+#experience {
+  padding: 40px 0;
+  background-color: #f9f9f9;
+}
+
+.container {
+  width: 90%;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.section-title {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #2c3e50;
+}
+
+.experience-card {
+  background-color: #2a3749;
+  border-radius: 10px;
+  padding: 25px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+}
+
+.job-title {
+  font-size: 1.4em;
+  color: #e4a109;
+  margin-bottom: 5px;
+}
+
+.job-duration {
+  font-style: italic;
+  color: #adaaaa;
+  margin-bottom: 20px;
+}
+
+.experience-list {
+  list-style: disc inside;
+  line-height: 1.8;
+  color: #f9f9f9;
+}
